@@ -1,0 +1,13 @@
+G:\BalanceTrackerApp\BalanceTrackerServices\obj\Debug\net6.0\BalanceTrackerServices.csproj.AssemblyReference.cache
+G:\BalanceTrackerApp\BalanceTrackerServices\obj\Debug\net6.0\BalanceTrackerServices.GeneratedMSBuildEditorConfig.editorconfig
+G:\BalanceTrackerApp\BalanceTrackerServices\obj\Debug\net6.0\BalanceTrackerServices.AssemblyInfoInputs.cache
+G:\BalanceTrackerApp\BalanceTrackerServices\obj\Debug\net6.0\BalanceTrackerServices.AssemblyInfo.cs
+G:\BalanceTrackerApp\BalanceTrackerServices\obj\Debug\net6.0\BalanceTrackerServices.csproj.CoreCompileInputs.cache
+G:\BalanceTrackerApp\BalanceTrackerServices\bin\Debug\net6.0\BalanceTrackerServices.dll.config
+G:\BalanceTrackerApp\BalanceTrackerServices\bin\Debug\net6.0\BalanceTrackerServices.deps.json
+G:\BalanceTrackerApp\BalanceTrackerServices\bin\Debug\net6.0\BalanceTrackerServices.dll
+G:\BalanceTrackerApp\BalanceTrackerServices\bin\Debug\net6.0\BalanceTrackerServices.pdb
+G:\BalanceTrackerApp\BalanceTrackerServices\obj\Debug\net6.0\BalanceTrackerServices.dll
+G:\BalanceTrackerApp\BalanceTrackerServices\obj\Debug\net6.0\refint\BalanceTrackerServices.dll
+G:\BalanceTrackerApp\BalanceTrackerServices\obj\Debug\net6.0\BalanceTrackerServices.pdb
+G:\BalanceTrackerApp\BalanceTrackerServices\obj\Debug\net6.0\ref\BalanceTrackerServices.dll
